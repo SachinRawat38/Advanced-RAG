@@ -96,10 +96,6 @@ The main configuration parameters can be found at the top of the `chatbot.py` fi
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - Financial Action Task Force (FATF) for their crucial work in establishing international standards for combating financial crimes
