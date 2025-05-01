@@ -1,6 +1,7 @@
 # FATF40 Recommendations Assistant
 
 A Streamlit-powered chatbot that helps users explore and understand the Financial Action Task Force (FATF) 40 Recommendations through natural language queries.
+Refer to vector.py and chatbot.py initially
 
 ![FATF40 Assistant Screenshot](https://img.shields.io/badge/FATF40-Assistant-blue)
 
